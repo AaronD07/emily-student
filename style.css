@@ -1,0 +1,103 @@
+
+h2{
+    color:rgb(91, 172, 158);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top:30;
+    
+}
+body{
+    background-color:rgb(203, 221, 212);
+    display: inline-flex;
+}
+li{
+    color:rgb(64, 134, 138);
+}
+p{
+    color:rgb(79, 196, 170);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    color:rgb(72, 121, 121);
+    font-family:'Courier New', Courier, monospace;
+
+}
+.fish{
+    border: 5px solid rgb(195, 208, 224);
+    padding:5;
+    width:70;
+    height:60;
+    text-align:left;
+}
+h1{
+    color:rgb(4, 157, 160);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#pet-title{
+    border: 2px solid rgb(86, 172, 157);
+    margin:auto;
+    padding:0px;
+    width: 400;
+    height: 80px;
+    text-align:center;
+}
+#gameish{
+    border: 2 px solid rgb(15, 140, 146);
+    margin: auto;
+    padding:1px;
+    width:650px;
+    height:1000px;
+    text-align:center;
+    display:block;
+}
+#pet-center{
+    width: 900px;
+}
+.race{
+    color:rgb(53, 141, 137);
+    font-family:'Times New Roman', Times, serif;
+
+}
+#goals{
+    display:inline-block;
+    margin:0;
+}
+.remb{
+    color:rgb(203, 221, 212);
+    margin:70;
+    display:inline;
+}
+#piggy1{
+  width: 160px;
+    display:inline-block;
+    margin-bottom: 0px;
+    margin-top:50px;
+}
+
+#piggy2{
+    width:160px;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top:50px;
+    
+}
+
+#piggy3{
+    width: 160px;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top:50px;
+}
+#piggies{
+    display:inline-block;
+
+width:500px;
+}
+#quiz{
+    color:rgb(23, 141, 143);
+    font-family:monospace;
+}
+#mdem{
+    color:rgb(11, 116, 116);
+ 
+}
+
